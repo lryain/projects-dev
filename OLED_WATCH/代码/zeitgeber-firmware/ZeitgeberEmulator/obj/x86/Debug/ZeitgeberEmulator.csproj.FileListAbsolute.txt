@@ -1,0 +1,9 @@
+D:\工程\AZ_安卓\OLED_WATCH\firmware\zeitgeber-firmware-master\ZeitgeberEmulator\bin\Debug\ZeitgeberEmulator.exe
+D:\工程\AZ_安卓\OLED_WATCH\firmware\zeitgeber-firmware-master\ZeitgeberEmulator\bin\Debug\ZeitgeberEmulator.pdb
+D:\工程\AZ_安卓\OLED_WATCH\firmware\zeitgeber-firmware-master\ZeitgeberEmulator\obj\x86\Debug\ZeitgeberEmulator.csprojResolveAssemblyReference.cache
+D:\工程\AZ_安卓\OLED_WATCH\firmware\zeitgeber-firmware-master\ZeitgeberEmulator\obj\x86\Debug\ZeitgeberEmulator.fmDevice.resources
+D:\工程\AZ_安卓\OLED_WATCH\firmware\zeitgeber-firmware-master\ZeitgeberEmulator\obj\x86\Debug\ZeitgeberEmulator.fmMain.resources
+D:\工程\AZ_安卓\OLED_WATCH\firmware\zeitgeber-firmware-master\ZeitgeberEmulator\obj\x86\Debug\ZeitgeberEmulator.Properties.Resources.resources
+D:\工程\AZ_安卓\OLED_WATCH\firmware\zeitgeber-firmware-master\ZeitgeberEmulator\obj\x86\Debug\ZeitgeberEmulator.csproj.GenerateResource.Cache
+D:\工程\AZ_安卓\OLED_WATCH\firmware\zeitgeber-firmware-master\ZeitgeberEmulator\obj\x86\Debug\ZeitgeberEmulator.exe
+D:\工程\AZ_安卓\OLED_WATCH\firmware\zeitgeber-firmware-master\ZeitgeberEmulator\obj\x86\Debug\ZeitgeberEmulator.pdb

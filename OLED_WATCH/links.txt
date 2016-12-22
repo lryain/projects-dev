@@ -1,0 +1,8 @@
+Oled 128*128
+https://www.sparkfun.com/products/retired/9678
+http://jared.geek.nz/2013/may/oled-watch ¹ÙÍø
+http://hackaday.io/project/2263-oshwatch
+https://github.com/MichMich/nRF8001-Swift
+https://github.com/adafruit/Adafruit_nRF8001
+https://github.com/sonnywl/Arduino-Android-BLE-NRF8001
+https://github.com/guyzmo/avr_nrf_ancs_library
